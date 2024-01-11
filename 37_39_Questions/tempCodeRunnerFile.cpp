@@ -1,0 +1,2 @@
+
+    for (string i : ans)
